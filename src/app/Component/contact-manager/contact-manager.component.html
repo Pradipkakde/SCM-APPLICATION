@@ -1,0 +1,69 @@
+<div class="container mt-3">
+    <div class="row">
+        <div class="col">
+            <p class="h3 text-danger sw-bold">SCM Contacts
+            <a class="btn btn-danger btn-sm" [routerLink]="['/contacts/add']"  ><i class="fa fa-plus-circle"></i> New</a></p>
+           
+            <p class="fst-italic">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia rem maxime sapiente dolor explicabo est dolorum, deleniti eveniet, officia dolores corporis autem vero velit asperiores soluta omnis tempora, nisi nulla.</p>
+            <form>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="row">
+                            <div class="col">
+                                <input type="text" class="form-control" placeholder="Search User...">
+
+                            </div>
+                            <div class="col">
+                                <input type="submit" class="btn btn-primary" value="Search">
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+ 
+<!--Cards-->
+
+<div  class="container mt-3">
+    <div class="row">
+<div  class="col-md-6" >
+    <div class="card shadow-lg list-group-item-danger">
+        <div class="card-body">
+            <div class="row align-items-center ">
+                <div class="col-sm-4">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppkoKsaYMuIoNLDH7O8ePOacLPG1mKXtEng&s" class="contact-img" alt="">
+                </div>
+                <div class="col-sm-7 ">
+                    <ul class="list-group">
+                        <li class="list-group-item list-group-item-danger">Name : <span class="fw-bold">Name</span></li>
+                        <li class="list-group-item list-group-item-danger">Email : <span class="fw-bold">Email</span></li>
+                        <li class="list-group-item list-group-item-danger">Mobile : <span class="fw-bold">Mobile</span></li>
+                        
+                    </ul>
+                </div>
+                <div class="col-sm-1 d-flex flex-column justify-content-center align-items-center">
+                    <a class="btn btn-warning my-1" routerLink="/contacts/view/:contactId">
+                        <i class="fa fa-eye"></i>
+                    </a>
+                    <a class="btn btn-primary my-1" routerLink="/contacts/edit/:contactId">
+                        <i class="fa fa-pen"></i>
+                    </a>
+                    <button class="btn btn-danger my-1">
+                        <i class="fa fa-trash-alt"> </i>
+                    </button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+    </div>
+</div>
+
+
