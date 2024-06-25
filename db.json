@@ -9,7 +9,58 @@
         "company":"senwell",
         "title":"company",
         "groupId":"2"
-        }      
+        } ,
+        {
+            "id": 2,
+            "name":"pradip",
+           "email":"kakde.pradip1@gmail.com",
+           "photo":"ljfjkl",
+           "mobile":"45465622",
+           "company":"senwell",
+           "title":"company",
+           "groupId":"2"
+           },
+           {
+            "id": 3,
+            "name":"pradip",
+           "email":"kakde.pradip1@gmail.com",
+           "photo":"ljfjkl",
+           "mobile":"45465622",
+           "company":"senwell",
+           "title":"company",
+           "groupId":"2"
+           },
+           {
+            "id": 4,
+            "name":"pradip",
+           "email":"kakde.pradip1@gmail.com",
+           "photo":"ljfjkl",
+           "mobile":"45465622",
+           "company":"senwell",
+           "title":"company",
+           "groupId":"2"
+           },
+           {
+            "id": 5,
+            "name":"pradip",
+           "email":"kakde.pradip1@gmail.com",
+           "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8EKZsbPJL9untJeNKOsCeoYRAFQKUZny0OA&s",
+           "mobile":"45465622",
+           "company":"senwell",
+           "title":"company",
+           "groupId":"2"
+           } ,
+           {
+            "id": 6,
+            "name":"pradip",
+           "email":"kakde.pradip1@gmail.com",
+           "photo":"https://w0.peakpx.com/wallpaper/335/429/HD-wallpaper-salman-khan-tiger-thumbnail.jpg",
+           "mobile":"45465622",
+           "company":"senwell",
+           "title":"company",
+           "groupId":"2"
+           }           
+
     ],
     "groups":[
         {
