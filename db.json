@@ -1,0 +1,21 @@
+{
+    "contacts":[
+        {
+         "id": 1,
+         "name":"pradip",
+        "email":"kakde.pradip1@gmail.com",
+        "photo":"ljfjkl",
+        "mobile":"45465622",
+        "company":"senwell",
+        "title":"company",
+        "groupId":"2"
+        }      
+    ],
+    "groups":[
+        {
+            "id":"string",
+            "name":"string"
+        }
+        
+    ]
+}
