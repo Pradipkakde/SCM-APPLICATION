@@ -45,9 +45,10 @@ public submitUpdate(){
 
     },(error)=>{
 this.errorMessage=error;
-this.router.navigate([`/contacts/edit/${this.contactId}`]).then(); 
-    })
+this.router.navigate([`/contacts/edit/${this.contactId}`]).then();
+    });
   }
 
 }
+
 }
