@@ -5,6 +5,8 @@ import { AddContactComponent } from './Component/add-contact/add-contact.compone
 import { EditContactComponent } from './Component/edit-contact/edit-contact.component';
 import { ViewContactComponent } from './Component/view-contact/view-contact.component';
 import { PageNotFoundComponent } from './Component/page-not-found/page-not-found.component';
+import { ContactComponent } from './Component/contact/contact.component';
+import { AboutComponent } from './Component/about/about.component';
 
 const routes: Routes = [
   {path:'',redirectTo:'/contacts/admin',pathMatch:'full'},
@@ -12,6 +14,8 @@ const routes: Routes = [
   {path:'contacts/add',component:AddContactComponent},
   {path:'contacts/edit/:contactId',component:EditContactComponent},
   {path:'contacts/view/:contactId',component:ViewContactComponent},
+  {path:'contact',component:ContactComponent},
+  {path:'about',component:AboutComponent},
   {path:'**',component:PageNotFoundComponent}
 ];
 

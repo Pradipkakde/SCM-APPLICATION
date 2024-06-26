@@ -1,20 +1,11 @@
 {
   "contacts": [
     {
-      "id": "f718",
-      "name": "Tiger Shrof",
-      "photo": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201905/tiger_shroff_0.png?size=690:388",
-      "email": "tiger@gmail.com",
-      "mobile": 123456789,
-      "company": "Film",
-      "title": "Hero"
-    },
-    {
       "id": "5c79",
       "name": "Santosh shrinivas",
       "photo": "https://i.pinimg.com/474x/24/dc/92/24dc925eff8b1eaee17bef1cdfe71536.jpg",
       "email": "santosh@gmail.com",
-      "mobile": 3214679777,
+      "mobile": 32146797771,
       "company": "south",
       "title": "Film"
     },
@@ -26,15 +17,6 @@
       "mobile": 112233445566,
       "company": "South film",
       "title": "Hero"
-    },
-    {
-      "id": "29be",
-      "name": "Big boss",
-      "photo": "https://i.pinimg.com/236x/cf/6b/1b/cf6b1be48f61216b8a767f415ad4ebbc.jpg",
-      "email": "big@gmail.com",
-      "mobile": 7896544113,
-      "company": "Film South",
-      "title": "Hollwodd"
     }
   ],
   "groups": []

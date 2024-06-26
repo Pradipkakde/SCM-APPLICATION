@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    background-color: #e8b5b5
+}
+
+.card {
+    width: 450px;
+    background-color: #e5ca32;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s;
+    margin-left: 150px;
+    margin-top: -36px;
+    border-radius: 10%;
+}
+
+.image img {
+    transition: all 0.5s;
+    border-radius: 50%;
+}
+
+.card:hover .image img {
+    transform: scale(1.5)
+}
+
+.btn {
+    height: 140px;
+    width: 140px;
+    border-radius: 50%
+}
+
+.name {
+    font-size: 22px;
+    font-weight: bold
+}
+
+.idd {
+    font-size: 14px;
+    font-weight: 600
+}
+
+.idd1 {
+    font-size: 12px
+}
+
+
+
+.text span {
+    font-size: 15px;
+    color: #0b0e01;
+    font-weight: 500;
+    text-align:justify;
+}
+
+.icons i {
+    font-size: 19px
+}
+
+
+.join {
+    font-size: 14px;
+    color: #a0a0a0;
+    font-weight: bold
+}
+
+.date {
+    background-color: #ccc
+}

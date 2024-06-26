@@ -11,6 +11,8 @@ import { ViewContactComponent } from './Component/view-contact/view-contact.comp
 import { SpinnerComponent } from './Component/spinner/spinner.component';
 import { PageNotFoundComponent } from './Component/page-not-found/page-not-found.component';
 import { FormsModule } from '@angular/forms';
+import { AboutComponent } from './Component/about/about.component';
+import { ContactComponent } from './Component/contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +23,9 @@ import { FormsModule } from '@angular/forms';
     EditContactComponent,
     ViewContactComponent,
     SpinnerComponent,
-    PageNotFoundComponent
+    PageNotFoundComponent,
+    AboutComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,
