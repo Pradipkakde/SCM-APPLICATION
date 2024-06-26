@@ -69,6 +69,21 @@
       "company": "jbk",
       "title": "name",
       "groupId": "1f"
+    },
+    {
+      "id": "c84f",
+      "name": "Pravin kumar",
+      "photo": "https://img.mensxp.com/media/content/2020/Apr/header---instagram-alluarjun_5e8c7be9cc608.jpeg"
+    },
+    {
+      "id": "ab44",
+      "name": "karan kumar",
+      "photo": "https://media.istockphoto.com/id/1165693802/photo/painting-of-goddess-laxmi.jpg?s=612x612&w=0&k=20&c=HPfQ8CWmh-uqEw89yTJV4vw5Nn8fUWslMVvxIlKEQhM=",
+      "email": "alu@gmailc.com",
+      "mobile": 2000000000000,
+      "company": "film",
+      "title": "hero",
+      "groupId": "1p"
     }
   ],
   "groups": [
