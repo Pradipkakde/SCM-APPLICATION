@@ -11,7 +11,7 @@ const routes: Routes = [
   {path:'contacts/admin',component:ContactManagerComponent},
   {path:'contacts/add',component:AddContactComponent},
   {path:'contacts/edit/:contactId',component:EditContactComponent},
-  {path:'contacts/view/:contactid',component:ViewContactComponent},
+  {path:'contacts/view/:contactId',component:ViewContactComponent},
   {path:'**',component:PageNotFoundComponent}
 ];
 

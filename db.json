@@ -1,72 +1,88 @@
 {
-    "contacts":[
-        {
-         "id": 1,
-         "name":"pradip",
-        "email":"kakde.pradip1@gmail.com",
-        "photo":"ljfjkl",
-        "mobile":"45465622",
-        "company":"senwell",
-        "title":"company",
-        "groupId":"2"
-        } ,
-        {
-            "id": 2,
-            "name":"pradip",
-           "email":"kakde.pradip1@gmail.com",
-           "photo":"ljfjkl",
-           "mobile":"45465622",
-           "company":"senwell",
-           "title":"company",
-           "groupId":"2"
-           },
-           {
-            "id": 3,
-            "name":"pradip",
-           "email":"kakde.pradip1@gmail.com",
-           "photo":"ljfjkl",
-           "mobile":"45465622",
-           "company":"senwell",
-           "title":"company",
-           "groupId":"2"
-           },
-           {
-            "id": 4,
-            "name":"pradip",
-           "email":"kakde.pradip1@gmail.com",
-           "photo":"ljfjkl",
-           "mobile":"45465622",
-           "company":"senwell",
-           "title":"company",
-           "groupId":"2"
-           },
-           {
-            "id": 5,
-            "name":"pradip",
-           "email":"kakde.pradip1@gmail.com",
-           "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8EKZsbPJL9untJeNKOsCeoYRAFQKUZny0OA&s",
-           "mobile":"45465622",
-           "company":"senwell",
-           "title":"company",
-           "groupId":"2"
-           } ,
-           {
-            "id": 6,
-            "name":"pradip",
-           "email":"kakde.pradip1@gmail.com",
-           "photo":"https://w0.peakpx.com/wallpaper/335/429/HD-wallpaper-salman-khan-tiger-thumbnail.jpg",
-           "mobile":"45465622",
-           "company":"senwell",
-           "title":"company",
-           "groupId":"2"
-           }           
-
-    ],
-    "groups":[
-        {
-            "id":"string",
-            "name":"string"
-        }
-        
-    ]
+  "contacts": [
+    {
+      "id": 1,
+      "name": "pradip",
+      "email": "kakde.pradip1@gmail.com",
+      "photo": "ljfjkl",
+      "mobile": "45465622",
+      "company": "senwell",
+      "title": "company",
+      "groupId": "2"
+    },
+    {
+      "id": 2,
+      "name": "pradip",
+      "email": "kakde.pradip1@gmail.com",
+      "photo": "ljfjkl",
+      "mobile": "45465622",
+      "company": "senwell",
+      "title": "company",
+      "groupId": "2"
+    },
+    {
+      "id": 3,
+      "name": "pradip",
+      "email": "kakde.pradip1@gmail.com",
+      "photo": "ljfjkl",
+      "mobile": "45465622",
+      "company": "senwell",
+      "title": "company",
+      "groupId": "2"
+    },
+    {
+      "id": 4,
+      "name": "pradip",
+      "email": "kakde.pradip1@gmail.com",
+      "photo": "ljfjkl",
+      "mobile": "45465622",
+      "company": "senwell",
+      "title": "company",
+      "groupId": "2"
+    },
+    {
+      "id": 5,
+      "name": "pradip",
+      "email": "kakde.pradip1@gmail.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8EKZsbPJL9untJeNKOsCeoYRAFQKUZny0OA&s",
+      "mobile": "45465622",
+      "company": "senwell",
+      "title": "company",
+      "groupId": "2"
+    },
+    {
+      "id": 6,
+      "name": "pradip",
+      "email": "kakde.pradip1@gmail.com",
+      "photo": "https://w0.peakpx.com/wallpaper/335/429/HD-wallpaper-salman-khan-tiger-thumbnail.jpg",
+      "mobile": "45465622",
+      "company": "senwell",
+      "title": "company",
+      "groupId": "3"
+    },
+    {
+      "id": "1420",
+      "name": "priapd",
+      "photo": "https://i.pinimg.com/736x/ad/17/9d/ad179d5bbff6140ac6d846602f00bd10.jpg",
+      "email": "kakdepradip21@gmail.com",
+      "mobile": 4545434343,
+      "company": "jbk",
+      "title": "name",
+      "groupId": "1f"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1f",
+      "name": "Friends"
+    },
+    {
+      "id": "1p",
+      "name": "relatives"
+    },
+    {
+      "id": "14",
+      "name": "Friends"
+    }
+  ]
 }
